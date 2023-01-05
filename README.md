@@ -13,7 +13,7 @@
 </div>
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="gears" height="20" width="20" src="https://bestanimations.com/Science/Gears/Gears.html">Aprendendo... ReactJS!
+  <img align="center" alt="gears" height="20" width="20" src="https://bestanimations.com/media/gears/1789323762silver-gear-cogs-animation-5.gif">Aprendendo... ReactJS!
  </div>
  
 <br>
